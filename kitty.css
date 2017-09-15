@@ -1,0 +1,30 @@
+@media screen and (min-width: 250px){
+
+.small {
+		content:url(images/kitten-small.png);
+			background-image:(images/pinkandblue.jpg);
+			background-size:100% auto;
+		}
+	
+		.kittyloaf { 
+		content:url(images/kittyloaf.gif);
+		 background-image:(images/pinkandblue.jpg);
+		 background-size:100% auto;
+	}
+	
+@media screen and (min-width: 680px){
+
+	body {
+	
+	content:url(images/kitten-medium.png);
+	background-color: pink;
+	
+		}
+	}
+	
+@media screen and (min-width: 800px){
+	body{
+		content:url(images/kitten-large.png);
+			background-color:lightblue;
+	}
+}

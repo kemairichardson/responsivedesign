@@ -1,23 +1,24 @@
 @media screen and (min-width: 250px){
 
+@media screen and (min-width: 250px){
+
 .small {
 		content:url(images/kitten-small.png);
-			background-image:(images/pinkandblue.jpg);
-			background-size:100% auto;
+			background-color:#F5DEB3;
 		}
 	
 		.kittyloaf { 
 		content:url(images/kittyloaf.gif);
-		 background-image:(images/pinkandblue.jpg);
-		 background-size:100% auto;
+			background-color:#F5DEB3;
 	}
+}
 	
 @media screen and (min-width: 680px){
 
 	body {
 	
 	content:url(images/kitten-medium.png);
-	background-color: pink;
+	background-color:F5DEB3;
 	
 		}
 	}
@@ -25,6 +26,8 @@
 @media screen and (min-width: 800px){
 	body{
 		content:url(images/kitten-large.png);
-			background-color:lightblue;
+			background-color:#FFB6C1 ;
 	}
 }
+
+
